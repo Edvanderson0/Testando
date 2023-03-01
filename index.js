@@ -1,6 +1,6 @@
 function calcula(a,b){
-    a + b
+     return a + b;
 
 };
 
-console.log(calcula(5+ 5));
+console.log(calcula(5,5));
