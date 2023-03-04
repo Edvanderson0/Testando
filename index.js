@@ -3,4 +3,4 @@ function calcula(a,b){
 
 };
 
-console.log(calcula(5+ 5));
+console.log(calcula(5 + 5));
